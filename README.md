@@ -32,7 +32,7 @@ Dedicated just one class to get the connection with mysql:
 
 *Insert:
 
-![image](https://user-images.githubusercontent.com/72236278/94999016-d9e96500-057b-11eb-94c5-f016940d3fd3.png)
+![image](https://user-images.githubusercontent.com/72236278/94999132-ede19680-057c-11eb-9b5b-61d43160e5bf.png)
 
 
 *Update:

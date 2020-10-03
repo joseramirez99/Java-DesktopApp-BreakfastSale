@@ -56,7 +56,9 @@ Here another example about the Model:
 
 
 Separating about the controller, here i am able to get the results from the view and at same time i'm not coding into the view:
-![carbon (4)](https://user-images.githubusercontent.com/72236278/94998677-4878f380-0579-11eb-8db7-1557d7adcb74.png)
+
+![image](https://user-images.githubusercontent.com/72236278/94999208-7e1fdb80-057d-11eb-95a3-d0c433e9c097.png)
+
 
 
 The view is completly separated from the coding about the software, for example here i'm in the view section and i'm protecting the textfield from possible user errors

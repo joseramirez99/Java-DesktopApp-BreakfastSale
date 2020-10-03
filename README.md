@@ -55,7 +55,7 @@ Separating about the controller, here i am able to get the results from the view
 
 The view is completly separated from the coding about the software, for example here i'm in the view section and i'm protecting the textfield from possible user errors
 like introduce letters inside numbers, here the extract code:
-![carbon (5)](https://user-images.githubusercontent.com/72236278/94998847-93dfd180-057a-11eb-83e4-78ca31a6ebdc.png)
+![image](https://user-images.githubusercontent.com/72236278/94998891-f0db8780-057a-11eb-9eb6-29c9249f7247.png)
 
 
 

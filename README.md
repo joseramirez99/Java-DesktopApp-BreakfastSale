@@ -42,7 +42,7 @@ Dedicated just one class to get the connection with mysql:
 
 *Delete:
 
-![image](https://user-images.githubusercontent.com/72236278/94999049-19b04c80-057c-11eb-8e91-ce2faf6482be.png)
+![image](https://user-images.githubusercontent.com/72236278/94999164-2da87e00-057d-11eb-93aa-0d31f65622d3.png)
 
 
 

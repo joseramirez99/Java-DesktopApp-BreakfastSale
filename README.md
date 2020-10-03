@@ -46,6 +46,7 @@ Delete:
 
 
 Here another example about the Model:
+
 ![image](https://user-images.githubusercontent.com/72236278/94998931-42841200-057b-11eb-8979-0fa0d647ceeb.png)
 
 

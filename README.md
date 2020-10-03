@@ -18,6 +18,7 @@ This Project contains: *Java Project. *Connector JDBC. *Database in MySQL WorkBe
 
 *Connection with MySQL - WorkBench: In this application i'm using a database so i'm using MySQL connector and i'm stablising connection directly with MySQL. All the modifications i'm doing in this project are been saved in this Database, this is because i'm trying to be more efficient and comfortable for user, so i dont have to worry about loosing information at all.
 
+
 Dedicated just one class to get the connection with mysql:
 
 ![Conexion MySQL](https://user-images.githubusercontent.com/72236278/94997710-8c1c2f00-0572-11eb-966a-33951f8eb63b.png)
@@ -30,15 +31,16 @@ Dedicated just one class to get the connection with mysql:
 
 
 *Insert:
-![carbon](https://user-images.githubusercontent.com/72236278/94998097-11084800-0575-11eb-851d-f131e7445744.png)
+![image](https://user-images.githubusercontent.com/72236278/94999016-d9e96500-057b-11eb-94c5-f016940d3fd3.png)
 
 
-Update:
-![carbon (1)](https://user-images.githubusercontent.com/72236278/94998146-444ad700-0575-11eb-8815-83289d668d7e.png)
+*Update:
+![image](https://user-images.githubusercontent.com/72236278/94999031-fb4a5100-057b-11eb-8121-c8dc24d0d161.png)
 
 
-Delete:
-![carbon (2)](https://user-images.githubusercontent.com/72236278/94998169-65abc300-0575-11eb-8b8c-dfaf67a209e5.png)
+*Delete:
+![image](https://user-images.githubusercontent.com/72236278/94999049-19b04c80-057c-11eb-8e91-ce2faf6482be.png)
+
 
 
 

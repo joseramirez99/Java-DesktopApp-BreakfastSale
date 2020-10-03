@@ -37,7 +37,7 @@ Dedicated just one class to get the connection with mysql:
 
 *Update:
 
-![image](https://user-images.githubusercontent.com/72236278/94999031-fb4a5100-057b-11eb-8121-c8dc24d0d161.png)
+![image](https://user-images.githubusercontent.com/72236278/94999106-a529dd80-057c-11eb-96a2-d46a062fd9bb.png)
 
 
 *Delete:

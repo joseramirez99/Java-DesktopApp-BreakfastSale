@@ -20,8 +20,8 @@ This Project contains: *Java Project. *Connector JDBC. *Database in MySQL WorkBe
 
 
 Dedicated just one class to get the connection with mysql:
+![image](https://user-images.githubusercontent.com/72236278/94999240-c50dd100-057d-11eb-83b8-3332fcefdcf7.png)
 
-![Conexion MySQL](https://user-images.githubusercontent.com/72236278/94997710-8c1c2f00-0572-11eb-966a-33951f8eb63b.png)
 
 
 *Relational Databases: I am using three different tables in this project the first one is to get the registry for food, in this case breakfast and all the characteristics for this one like, quantity, price, register, cathegory, and description. The second table is used to get the cathegory for breakfast and this one has a relation with first table, so if i delete just one cathegory because i'm not gonna use it anymore i'm also deleting all the breakfasts for this erased cathegory, not sales only breakfast register. The third table is used to get all the sales done for user, so i'm saving the breakfast name, sales quantity and payment by client all this information comunicates with first table (registry food) and do the appropiate update in quantities for product.

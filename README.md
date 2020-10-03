@@ -46,7 +46,7 @@ Delete:
 
 
 Here another example about the Model:
-![carbon (3)](https://user-images.githubusercontent.com/72236278/94998348-df907c00-0576-11eb-849b-b943990a60e5.png)
+![image](https://user-images.githubusercontent.com/72236278/94998931-42841200-057b-11eb-8979-0fa0d647ceeb.png)
 
 
 Separating about the controller, here i am able to get the results from the view and at same time i'm not coding into the view:

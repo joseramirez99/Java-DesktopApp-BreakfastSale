@@ -2,7 +2,8 @@
 
 Java Desktop Application Jose Luis Ramirez
 
-![image](https://user-images.githubusercontent.com/72236278/94997935-0ef1b980-0574-11eb-8f0e-55f3577dd86c.png)
+
+![image](https://user-images.githubusercontent.com/72236278/94997966-38124a00-0574-11eb-9ce9-01e720fe8152.png)
 
 
 This Project contains: *Java Project. *Connector JDBC. *Database in MySQL WorkBench - DB-Breakfast. *Document with Requirements for the creation of this Software.

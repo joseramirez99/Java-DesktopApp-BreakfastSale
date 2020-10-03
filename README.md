@@ -2,6 +2,9 @@
 
 Java Desktop Application Jose Luis Ramirez
 
+![image](https://user-images.githubusercontent.com/72236278/94997935-0ef1b980-0574-11eb-8f0e-55f3577dd86c.png)
+
+
 This Project contains: *Java Project. *Connector JDBC. *Database in MySQL WorkBench - DB-Breakfast. *Document with Requirements for the creation of this Software.
 
 -Purpose for this software: This Java Application has the objective, get the control for products (breakfast) for inventory and sales. Im attaching here document: "Specs.pdf" where i explain the entire problematic, requirements for this software and my solution with this Java app.

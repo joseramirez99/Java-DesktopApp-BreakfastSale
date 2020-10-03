@@ -26,12 +26,19 @@ Dedicated just one class to get the connection with mysql:
 *Relational Databases: I am using three different tables in this project the first one is to get the registry for food, in this case breakfast and all the characteristics for this one like, quantity, price, register, cathegory, and description. The second table is used to get the cathegory for breakfast and this one has a relation with first table, so if i delete just one cathegory because i'm not gonna use it anymore i'm also deleting all the breakfasts for this erased cathegory, not sales only breakfast register. The third table is used to get all the sales done for user, so i'm saving the breakfast name, sales quantity and payment by client all this information comunicates with first table (registry food) and do the appropiate update in quantities for product.
 
 
-![Relational](https://user-images.githubusercontent.com/72236278/94997878-aefb1300-0573-11eb-862f-ce45d7fdab89.png)
+*CRUD: I am using Queries for MySQL like Create, Read, Update and Delete. All the actions for this project are based in this sentences, this sentences are able to insert registers in Database, update or modify registers, return registers (products, cathegories, sales) and delete each one of this. All this sentences are able to connect with Database and do all the changes that user needs anytime.
 
 
+*Insert:
+![carbon](https://user-images.githubusercontent.com/72236278/94998097-11084800-0575-11eb-851d-f131e7445744.png)
 
 
+Update:
+![carbon (1)](https://user-images.githubusercontent.com/72236278/94998146-444ad700-0575-11eb-8815-83289d668d7e.png)
 
+
+Delete:
+![carbon (2)](https://user-images.githubusercontent.com/72236278/94998169-65abc300-0575-11eb-8b8c-dfaf67a209e5.png)
 
 
 

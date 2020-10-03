@@ -42,6 +42,21 @@ Delete:
 
 
 
+*MVC(Model, View, Controller): One of the most important parts in the contruction for this project is the MVC Pattern, because this philosophy prettends divide all the project in three phases. 1.-Model: This one has the representation for all the data in the system, the business logical and the persistence. 2.-View: This one is the interface for user, it has comunications directly with user and receives all the requests, in this project the view was used only to hide icons or show icons in the frame, also i used a small method to protect the text boxes for posible wrong characters but all the logical and the controller code is not here in the view. This can bring us the posibility to replace really easy this components maybe for another ones or maybe just change the place for this components and we are not depending entirely for this ones. 3.-Controller: This one is working between model and view, managing all the information and transformations to adapt data for each one. In this part, the code that i'm using are built by methods assigned to buttons for insert, modify or delete in the entire application, all this code was used in communication with the model and view.
+
+
+Here another example about the Model:
+![carbon (3)](https://user-images.githubusercontent.com/72236278/94998348-df907c00-0576-11eb-849b-b943990a60e5.png)
+
+
+Separating about the controller, here i am able to get the results from the view and at same time i'm not coding into the view:
+![carbon (4)](https://user-images.githubusercontent.com/72236278/94998677-4878f380-0579-11eb-8db7-1557d7adcb74.png)
+
+
+The view is completly separated from the coding about the software, for example here i'm in the view section and i'm protecting the textfield from possible user errors
+like introduce letters inside numbers, here the extract code:
+![carbon (5)](https://user-images.githubusercontent.com/72236278/94998847-93dfd180-057a-11eb-83e4-78ca31a6ebdc.png)
+
 
 
 

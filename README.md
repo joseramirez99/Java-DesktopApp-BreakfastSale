@@ -31,14 +31,17 @@ Dedicated just one class to get the connection with mysql:
 
 
 *Insert:
+
 ![image](https://user-images.githubusercontent.com/72236278/94999016-d9e96500-057b-11eb-94c5-f016940d3fd3.png)
 
 
 *Update:
+
 ![image](https://user-images.githubusercontent.com/72236278/94999031-fb4a5100-057b-11eb-8121-c8dc24d0d161.png)
 
 
 *Delete:
+
 ![image](https://user-images.githubusercontent.com/72236278/94999049-19b04c80-057c-11eb-8e91-ce2faf6482be.png)
 
 

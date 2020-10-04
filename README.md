@@ -153,15 +153,53 @@ Wrong payment, program does not execute the sale...
 
 Correct payment, program tell user how much money needs to return to client...
 
-![image](https://user-images.githubusercontent.com/72236278/95006944-7557f580-05cf-11eb-958b-abb74590b820.png)
+![image](https://user-images.githubusercontent.com/72236278/95007031-66257780-05d0-11eb-9974-21eedaa59259.png)
 
 
 Database in MySQL Workbench, we can see the table Ventas and we have registered this last sale we did...
 
-![image](https://user-images.githubusercontent.com/72236278/95007009-1ba3fb00-05d0-11eb-874a-20283963061f.png)
+![image](https://user-images.githubusercontent.com/72236278/95007049-99680680-05d0-11eb-907f-95e33a0f262e.png)
 
 
+In the same Menu we are able to delete the sale, here i'm trying to delete the last sale we did...
 
+![image](https://user-images.githubusercontent.com/72236278/95007058-c1f00080-05d0-11eb-8b72-de3eeb22edc4.png)
+
+
+Sale deleted:
+
+![image](https://user-images.githubusercontent.com/72236278/95007067-dfbd6580-05d0-11eb-87cd-6bd5f0b91d8b.png)
+
+
+Also we are able to delete the register for the product (breakfast) or the Category if we need it, this is directly for inventory...
+
+![image](https://user-images.githubusercontent.com/72236278/95007083-12675e00-05d1-11eb-88a6-30a45f6a6a0f.png)
+
+
+Profile for this product deleted in Database too...
+
+![image](https://user-images.githubusercontent.com/72236278/95007092-388cfe00-05d1-11eb-984d-45237e41e1c3.png)
+
+
+Also i would like to add, if we delete some category, we are deleting at same time all the products matched with this category...
+
+Finally we have the option to close our app with this button "Exit" in this way.
+
+
+![image](https://user-images.githubusercontent.com/72236278/95007099-67a36f80-05d1-11eb-91c1-3a0ea626125e.png)
+
+
+End Of Program:
+
+
+![image](https://user-images.githubusercontent.com/72236278/95007114-8c97e280-05d1-11eb-8969-1f4cb0837e1d.png)
+
+
+All the project is here in this repository including the Database in MySQL...
+
+I invite you to check and test this application and do your own annotations and if you wanted collaborate and expand this Software
+
+Regards...
 
 
 

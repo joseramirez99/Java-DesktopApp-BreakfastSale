@@ -134,10 +134,31 @@ In this only case i just changed the quantity for this product, imaging i did mo
 
 
 
+Here we are in the sales option, it is really simple and easy use this module... I starting lookgin for the breakfast availability, if i am able to sale at least one of this the program asks me for the payment and it has to be the rigth payment o more than expected but never less, if the payment its more the programm tell me how much money i have to return to this client...
+
+
+![image](https://user-images.githubusercontent.com/72236278/95006860-83f1dd00-05ce-11eb-84f8-be5183f086f6.png)
 
 
 
+Program asking for quantity:
 
+![image](https://user-images.githubusercontent.com/72236278/95006880-b56aa880-05ce-11eb-9a53-154152a91dba.png)
+
+
+Wrong payment, program does not execute the sale...
+
+![image](https://user-images.githubusercontent.com/72236278/95006893-ddf2a280-05ce-11eb-9461-2d9b4fbf7e7e.png)
+
+
+Correct payment, program tell user how much money needs to return to client...
+
+![image](https://user-images.githubusercontent.com/72236278/95006944-7557f580-05cf-11eb-958b-abb74590b820.png)
+
+
+Database in MySQL Workbench, we can see the table Ventas and we have registered this last sale we did...
+
+![image](https://user-images.githubusercontent.com/72236278/95007009-1ba3fb00-05d0-11eb-874a-20283963061f.png)
 
 
 

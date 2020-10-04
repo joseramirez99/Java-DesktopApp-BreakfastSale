@@ -68,7 +68,8 @@ like introduce letters inside numbers, here the extract code:
 
 
 
-
+The Application Starts in this way:
+![image](https://user-images.githubusercontent.com/72236278/95006552-6b33f800-05cb-11eb-9015-78b59a066ea9.png)
 
 
 

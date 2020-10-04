@@ -103,6 +103,40 @@ Here we are able to see the insertion for this new Category in MySQL WorkBench, 
 ![image](https://user-images.githubusercontent.com/72236278/95006710-c4e8f200-05cc-11eb-8a5f-b8944c834905.png)
 
 
+In this moment i did a registry for breakfast and this is working good, i received a message telling me "Registro Insertado Correctamente" to let know about this last action.
+
+
+![image](https://user-images.githubusercontent.com/72236278/95006740-fbbf0800-05cc-11eb-91d4-37add70808f8.png)
+
+Breakfast saved on Database.
+
+In this image i am showing the "Buscar" Menu, so in the same way i can take a look for a register in Category or a Breakfast...
+
+
+![image](https://user-images.githubusercontent.com/72236278/95006759-417bd080-05cd-11eb-93a3-57a69d5db748.png)
+
+Inside this last option i can find the breakfast or maybe not depending the register that i'm using it here, in this case i found the correct breakfast...
+
+
+![image](https://user-images.githubusercontent.com/72236278/95006796-c36bf980-05cd-11eb-8969-d217862c225e.png)
+
+
+Once i get the right register i am able to modify this same register or maybe just see all the attributes belonging on this plate
+
+
+![image](https://user-images.githubusercontent.com/72236278/95006818-fb733c80-05cd-11eb-9c69-2820257564df.png)
+
+
+In this only case i just changed the quantity for this product, imaging i did more of this in the business
+
+
+![image](https://user-images.githubusercontent.com/72236278/95006839-2cec0800-05ce-11eb-924e-ca7c666c8cb6.png)
+
+
+
+
+
+
 
 
 

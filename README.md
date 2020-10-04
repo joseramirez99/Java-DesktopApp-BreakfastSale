@@ -80,6 +80,32 @@ Now I'm inside the Menu "Registro"
 ![image](https://user-images.githubusercontent.com/72236278/95006588-d4b40680-05cb-11eb-885e-d43cdc694c68.png)
 
 
+We can select Categoria or Desayuno and do the registry for each one of this.
+
+I'm inside "Categoria" in this moment so i am doing the registry for a new kind of breakfast:
+
+![image](https://user-images.githubusercontent.com/72236278/95006627-2b214500-05cc-11eb-9761-902ac45b1124.png)
+
+
+I'm done with the first Category in this moment:
+
+![image](https://user-images.githubusercontent.com/72236278/95006656-5d32a700-05cc-11eb-9cfe-793218719a00.png)
+
+
+So the app shows me the new profile created and it's ready to save another Category in the Database.
+
+Here we are able to see the insertion for this new Category in MySQL WorkBench, so this first option is working perfectly...
+
+
+![image](https://user-images.githubusercontent.com/72236278/95006697-94a15380-05cc-11eb-843d-b050d4f76a06.png)
+
+
+![image](https://user-images.githubusercontent.com/72236278/95006710-c4e8f200-05cc-11eb-8a5f-b8944c834905.png)
+
+
+
+
+
 
 
 

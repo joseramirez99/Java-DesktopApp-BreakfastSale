@@ -69,8 +69,15 @@ like introduce letters inside numbers, here the extract code:
 
 
 The Application Starts in this way:
+
+
 ![image](https://user-images.githubusercontent.com/72236278/95006552-6b33f800-05cb-11eb-9015-78b59a066ea9.png)
 
+We can select any option in the Menu, but it is necessary register Category and Product so we can do the Sale...
+
+Now I'm inside the Menu "Registro"
+
+![image](https://user-images.githubusercontent.com/72236278/95006588-d4b40680-05cb-11eb-885e-d43cdc694c68.png)
 
 
 
